@@ -23,7 +23,7 @@
 ### Definindo o cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/diario.png">
+  <img width="80%" src="./assets/semanal.png">
 </p>
 
 Estes são os horários fixos que irei dedicar durante a minha jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os meus objetivos o mais rápido possível!
@@ -31,7 +31,7 @@ Estes são os horários fixos que irei dedicar durante a minha jornada como prog
 ### Definindo o cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/semanal.png">
+  <img width="80%" src="./assets/diario.png">
 </p>
 
 Este é meu planejamento diário para que eu consiga estar preparado para todo o conteúdo que irei consumir durante a semana.
