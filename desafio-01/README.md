@@ -34,7 +34,7 @@ Estes são os horários fixos que irei dedicar durante a minha jornada como prog
   <img width="80%" src="./assets/diario.png">
 </p>
 
-Este é meu planejamento diário para que eu consiga estar preparado para todo o conteúdo que irei consumir durante a semana.
+Este é meu planejamento diário para que eu consiga estar preparado para todo o conteúdo que irei consumir durante a semana. Este cronograma ainda será alterado a partir da liberação dos novos módulos.
 
 ## :memo: Licença
 
